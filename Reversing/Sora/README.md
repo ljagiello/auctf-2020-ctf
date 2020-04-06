@@ -10,7 +10,7 @@ Connect to `challenges.auctf.com 30004`
 Author: nadrojisk
 
 ## Solution
-This is a reverse challenge. First lets see what strings we have in a binary (I will skip not important one):
+This is a reverse challenge. First lets see what strings we have in a binary (I will skip not important ones):
 ```
 […]
 aQLpavpKQcCVpfcg
